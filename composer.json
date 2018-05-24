@@ -1,0 +1,20 @@
+{
+    "name": "cepeus/seo-generator",
+    "description": "Seo text generator and meta tags based on templates",
+	"keywords": ["seo", "text", "generator", "difference"],
+    "type": "library",
+	"authors": [
+		{
+		  "name": "Yuriy Tkachenko",
+		  "email": "tds.tkachenko@gmail.com"
+		},
+	],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+		"php": "^7.1"
+	},
+	"autoload": {
+		"psr-4": { "cepeus\\seo-generator\\": "" }
+	},
+}
